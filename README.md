@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🤵‍♂️ I'm Danil - a Data Science specialist interested in data analysis, ML, and visualization. I use Python, pandas, NumPy, scikit-learn. 
+
+⚡Let's work together!
+
 <!--
 **DanilaTsvetkov/DanilaTsvetkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
